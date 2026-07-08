@@ -11,14 +11,17 @@
             "id": "9d3a63c63a145aa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "musical keyboard/Note.md",
-                "mode": "source",
-                "source": false
+                "file": "musical keyboard/Keyboard.canvas",
+                "viewState": {
+                  "x": -23.535150108919595,
+                  "y": 3.1801021744114646,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Note"
+              "icon": "lucide-layout-dashboard",
+              "title": "Keyboard"
             }
           }
         ]
@@ -196,8 +199,11 @@
   },
   "active": "9d3a63c63a145aa5",
   "lastOpenFiles": [
-    "Welcome.md",
     "musical keyboard/Note.md",
+    "musical keyboard/Keyboard.canvas",
+    "Welcome.md",
+    "images",
+    "images/Keyboard notes.png",
     "musical keyboard"
   ]
 }
