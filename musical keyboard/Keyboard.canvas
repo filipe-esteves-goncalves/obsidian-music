@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"fcaf3c6637953025","type":"file","file":"images/Keyboard notes.png","x":-660,"y":-240,"width":400,"height":400},
-		{"id":"c658513a6686aff5","x":-160,"y":-240,"width":469,"height":108,"type":"text","text":"https://www.youtube.com/watch?v=dcHqd0KXx5M"}
+		{"id":"c658513a6686aff5","type":"text","text":"https://www.youtube.com/watch?v=dcHqd0KXx5M","x":-160,"y":-240,"width":469,"height":108},
+		{"id":"67e4ae011051f076","x":-660,"y":200,"width":400,"height":267,"type":"file","file":"Pasted image 20260708163818.png"}
 	],
 	"edges":[]
 }
