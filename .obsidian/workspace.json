@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "musical keyboard/Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Note"
             }
           }
         ]
@@ -194,9 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4339c08da06e0aa9",
+  "active": "9d3a63c63a145aa5",
   "lastOpenFiles": [
-    "musical keyboard",
-    "Welcome.md"
+    "Welcome.md",
+    "musical keyboard/Note.md",
+    "musical keyboard"
   ]
 }
